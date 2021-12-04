@@ -1,0 +1,21 @@
+body {
+	background-color: aqua;
+	color: red;
+}
+
+.names_of_objects, #accuracy, #object_name {
+	color: green;
+}
+
+.heading {
+	font-size: 30px; 
+	width: 80%;
+	background-color: blue;
+	color: aqua;
+}
+
+#camera {
+	width: 350px;
+	height: 300px;
+	border: 2px dashed black;
+}
